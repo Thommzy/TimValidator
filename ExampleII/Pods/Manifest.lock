@@ -1,0 +1,16 @@
+PODS:
+  - TimValidator (1.0.0)
+
+DEPENDENCIES:
+  - TimValidator (from `../TimValidator`)
+
+EXTERNAL SOURCES:
+  TimValidator:
+    :path: "../TimValidator"
+
+SPEC CHECKSUMS:
+  TimValidator: 5fdbba23bcb5d5c4672d7cd3c2590f59acf2989f
+
+PODFILE CHECKSUM: 7f2ccfa86521e706f44c6f41e82d41a4670846b6
+
+COCOAPODS: 1.11.2
